@@ -16,7 +16,7 @@ To open a ticket for {payg}, see https://scc.suse.com/cloudsupport.
 Public Cloud Guide::
 For more information on cloud products and support, see the {suse} public cloud guide:
 
-link:https://documentation.suse.com/sle-public-cloud/all/html/public-cloud/pre-example.html[SUSE Public Cloud Guide]
+link:https://documentation.suse.com/sle-public-cloud/all/html/public-cloud/[SUSE Linux Enterprise Public Cloud Guide]
 
 Public Cloud Information Tracker (Pint)::
 The Public Cloud Information Tracker (PINT) provides information about the images SUSE publishes and servers that are part of the SUSE operated update infrastructure. PINT is available at link:https://pint.suse.com/[pint.suse.com]  and provided as an API and command-line tool with the **python3-susepubliccloudinfo** package from the Public Cloud Module repository.
